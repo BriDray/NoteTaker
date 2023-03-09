@@ -7,6 +7,7 @@
 * [Dependencies](#dependencies)
 * [User Story](#user-story)
 * [Screenshots](#screenshots)
+* [Deployed Project](#deployed-project)
 * [Questions](#questions)
 
 
@@ -27,17 +28,26 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
+## Usage
+
+Currently, in order to view/use. Please use the CLI with the command....
+
+```
+node server.js
+```
+And then follow the localhost link. This project will be deployed via Heroku.
+
 ## Screenshots
 
 The following images show the web application's appearance and functionality:
 
-![Existing notes are listed in the left-hand column with empty fields on the right-hand side for the new note’s title and text.](./Assets/11-express-homework-demo-01.png)
+![Landing Page](./Develop/images/landing.png)
 
-![Note titled “Balance accounts” reads, “Balance account books by end of day Monday,” with other notes listed on the left.](./Assets/11-express-homework-demo-02.png)
+![Notes Page](./Develop/images/notes.png)
 
-## GitHub 
+## Deployed Project
 
-coming soon.
+This project will be deployed via Heroku. Will have a link soon!
 
 ## Questions
 Hi, my name is Bri Dray. If you have any questions about my project, please E-mail me [HERE!](mailto:stanggurl02@gmail.com)
