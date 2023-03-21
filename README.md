@@ -35,7 +35,7 @@ Currently, in order to view/use. Please use the CLI with the command....
 ```
 node server.js
 ```
-And then follow the localhost link. This project will be deployed via Heroku.
+And then follow the localhost link. This project will be deployed via Heroku. You can find the link to this project under the Deployed Project Section.
 
 ## Screenshots
 
