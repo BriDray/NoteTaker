@@ -28,10 +28,6 @@ I WANT to be able to write and save notes
 SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ```
 
-## Usage
-
-This project has been deployed via Heroku. You can find the link to this project under the Deployed Project Section.
-
 ## Screenshots
 
 The following images show the web application's appearance and functionality:
