@@ -47,7 +47,7 @@ The following images show the web application's appearance and functionality:
 
 ## Deployed Project
 
-This project will be deployed via Heroku. Will have a link soon!
+This project is currently deployed via Heroku. You can [view the project HERE!](https://nameless-hollows-17204.herokuapp.com/notes)
 
 ## Questions
 Hi, my name is Bri Dray. If you have any questions about my project, please E-mail me [HERE!](mailto:stanggurl02@gmail.com)
